@@ -41,7 +41,7 @@ export default function MainLayout() {
         {/* Footer */}
         <footer className="border-t border-slate-200/80 bg-white py-4 px-6 sm:px-8 text-xs text-slate-400 flex flex-col sm:flex-row items-center justify-between gap-2">
           <div>
-            © {new Date().getFullYear()} NexusDash. Built with Pixel-Perfect Precision for Mahamkali Uma Maheswari.
+            © {new Date().getFullYear()} NexusDash. Built with Pixel-Perfect Precision for Alex Morgan.
           </div>
           <div className="flex items-center gap-4 text-slate-500">
             <span className="hover:text-slate-800 cursor-pointer">Privacy Policy</span>

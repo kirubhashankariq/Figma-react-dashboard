@@ -457,9 +457,9 @@ export const invoicesList = [
 ];
 
 export const userProfile = {
-  name: 'Mahamkali Uma Maheswari',
+  name: 'Alex Morgan',
   title: 'Lead Frontend Engineer & UI Architect',
-  email: 'mahamkali.uma@nexusdash.dev',
+  email: 'alex.morgan@nexusdash.dev',
   avatar: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200',
   department: 'Product Engineering',
   location: 'Hyderabad, India',

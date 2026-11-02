@@ -1,6 +1,6 @@
 # 🚀 NexusDash — High-Fidelity Enterprise Analytics & Commerce Dashboard
 
-> **Submission Prepared for:** Mahamkali Uma Maheswari  
+> **Submission Prepared for:** Alex Morgan  
 > **Role & Objective:** Expert React.js Frontend Developer — Pixel-Perfect Figma-to-React Translation  
 > **Live Deployment Link:** [Insert Vercel / Netlify URL Here]  
 > **Git Repository Link:** [Insert GitHub Repository URL Here]  
@@ -9,7 +9,7 @@
 
 ## 📋 Executive Summary & Project Overview
 
-Dear **Mahamkali Uma Maheswari**,
+Dear **Alex Morgan**,
 
 This project is a modern, responsive, and interactive enterprise dashboard crafted with **Pixel-Perfect Fidelity** based on contemporary Figma design standards. Every visual token—from exact hex colors, typography scales, line-heights, spatial paddings, and drop shadows to smooth interactive state transitions—has been engineered to meet the highest frontend industry standards.
 
@@ -177,7 +177,7 @@ Netlify will automatically detect this during build time.
 
 ---
 
-## ✅ Submission Checklist for Mahamkali Uma Maheswari
+## ✅ Submission Checklist for Alex Morgan
 
 - [x] **Pixel-Perfect Fidelity:** Typography, spacing, colors, borders, and shadows accurately implemented.
 - [x] **Modular Component Architecture:** Clean separation into `/components`, `/layout`, `/pages`, `/utils`, and `/styles`.
